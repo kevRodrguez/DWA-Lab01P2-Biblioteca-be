@@ -1,3 +1,6 @@
+##Integrantes:
+1-Rodríguez Posada, Kevin Fernando 
+2-Escobar Preza, Bryan Steven
 
 ## Instalación
 
